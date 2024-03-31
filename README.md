@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/duh.itz_tharunn/">
       <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
   </a>
-    <a href="">
+    <a href="https://leetcode.com/Tharun_Karthick/">
         <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
     </a>
 </div>
