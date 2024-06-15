@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 👨‍💻 I’m currently working on **a chatbot**
+ 👨‍💻 I’m currently working on **an e-commerce application**
  
- 🌱 I’m currently learning **Python, Flask, AWS**
+ 🌱 I’m currently learning **Python, Django, AWS**
 
 💬 Ask me about **React, Firebase... or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
 
