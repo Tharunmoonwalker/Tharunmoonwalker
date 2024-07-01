@@ -12,7 +12,7 @@
  
  👨‍💻 I’m currently working on **an e-commerce application**
  
- 🌱 I’m currently learning **Python, Django, AWS**
+ 🌱 I’m currently learning **Python, Django, Llama**
 
 💬 Ask me about **React, Firebase... or even Stock market [here](https://github.com/Tharunmoonwalker/Tharunmoonwalker/issues)**
 
